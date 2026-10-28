@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    color: black;
+    margin: 8px;
+}
+
+progress {
+    width: 160px;
+}
+
+input[type="date"] {
+    width: 150px;
+}
+
+input[type="email"] {
+    width: 170px;
+}
